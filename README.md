@@ -1,6 +1,6 @@
 # Site acessivel sobre tropicalia
 # sobre
-# rafatração de um site com recusrsos de acessivlidade com, Html Css e Js
+# rafotração de um site com recusrsos de acessivlidade com, Html Css e Js
 ## Recursos de acessibilidade
 - atributos aria
 - alt
